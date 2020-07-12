@@ -2,7 +2,8 @@
 
 Meu nome é Igor Melo, tenho 24 anos. Hoje trabalho na @ilogtecnologia como Desenvolvedor Frontend! Trabalho com AngularJS e muito Sass! Hoje a @ilogteconlogia é um dos principais players de LMS no cenário nacional e da América Latina com clientes muito relevantes.
 
-Apesar de usar AngularJS no trabalho, em projetos pessoais gosto muito de usar a stack NodeJS, React e React Native. E projeto ou outro gosto de misturar e acrescentar algo novo como trablahar com Graphql ou trocar o React pelo Vue.
+Apesar de usar AngularJS no trabalho, em projetos pessoais gosto muito de usar a stack NodeJS, React e React Native. 
+Gosto de estar sempre aprendendo algo novo, por isso faço muitos projetos pequenos para aprender novas tecnologias como Graphql ou trocar o React pelo Vue.
 
 
 ## 📫 Entre em contato
