@@ -1,3 +1,9 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/igorjm)](https://github.com/igorjm)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorjm/)](https://www.linkedin.com/in/igorjm/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorjmelo4@gmail.com)](mailto:igorjmelo4@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/igorjm2/)](https://t.me/igorjm2/)
+
+
 ## [🇧🇷] Olá 👋
 
 Meu nome é Igor Melo, tenho 24 anos. Hoje trabalho na @ilogtecnologia como Desenvolvedor Frontend! Trabalho com AngularJS e muito Sass! Hoje a @ilogteconlogia é um dos principais players de LMS no cenário nacional e da América Latina com clientes muito relevantes.
