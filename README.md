@@ -14,9 +14,3 @@ Meu nome é Igor Melo, tenho 25 anos. Hoje trabalho na @ilogtecnologia como Dese
 - 🐦 Meu Twitter[@igoorjm](https://twitter.com/igoorjm)
 - 💬 Vamos bater um papo no [Telegram](https://t.me/igorjm2)
 - 📧 Ou Você pode me mandar um [email](mailto:igorjmelo4@gmail.com)
-
-## ⚡ Fun facts
-
-- 🥋 Sou faixa preta de Kung Fu no estilo [Choy Lay Fut](http://www.institutodekungfu.com.br/site/modalidades/kung-fu/choy-lay-fut/);
-- 💵 No meu tempo livre estudo sobre investimentos e economia;
-- 🚀 Curioso pelo ecosistema de empreendedorismo.
