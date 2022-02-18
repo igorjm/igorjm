@@ -6,7 +6,7 @@
 
 ## [🇧🇷] Olá 👋
 
-Meu nome é Igor Melo, tenho 25 anos. Hoje trabalho na @ilogtecnologia como Desenvolvedor Frontend.
+Meu nome é Igor Melo, tenho 25 anos. Hoje trabalho na @cognyte_software como Desenvolvedor Frontend.
 
 
 ## 📫 Entre em contato
