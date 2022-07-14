@@ -32,23 +32,6 @@ My name is Igor, I"m 26 and I'm currently working for  @cognyte_software
  <a href="https://redux.js.org/">   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Logo" width="70" height="70"/></a>
 </div>
 
----
-
-<!--
-## 🔧 What I've been working with this week  
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   7 hrs 43 mins   ██████████████▒░░░░░░░░░░   57.61 %
-JSON         4 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-Svelte       1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-TypeScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Pug          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-```
-
-<!--END_SECTION:waka-->
--->
 
 ---
 
