@@ -23,8 +23,8 @@ My name is Igor, I"m 26 and I'm currently working for  @cognyte_software
 <!--   </kbd> -->
  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Logo" width="70" height="70"/></a> 
   <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="70" height="70"/>  </a>
- <a href="https://svelte.dev/">
-  <img src="https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_400x400.png" alt="Svelte Logo" width="70" height="70"/>
+ <a href="https://angular.io/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" alt="Svelte Logo" width="70" height="70"/>
  </a>
   <a href="https://www.mongodb.com/">  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="MongoDB Logo" width="70" height="70"/> </a>
   <a href="https://nodejs.dev/">
