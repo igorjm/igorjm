@@ -36,7 +36,7 @@ My name is Igor, I"m 26 and I'm currently working for  @cognyte_software
 ---
 
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorjm&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)
+<!-- ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorjm&count_private=true&show_icons=true&hide=stars,issues&include_all_commits) -->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{igorjm}/count.svg) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=igorjm)](https://github.com/ryo-ma/github-profile-trophy) -->
