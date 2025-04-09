@@ -5,7 +5,7 @@
 
 ## [EN] Hey 👋
 
-My name is Igor, I"m 27yo and currently working for @cognyte_software
+My name is Igor, I"m 29yo and currently working for @cognyte_software
 
 <!-- , I'm Igor!   -->
 
