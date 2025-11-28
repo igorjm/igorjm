@@ -25,9 +25,6 @@ My name is Igor, I"m 29yo and currently working for @cognyte_software
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Logo" width="70" height="70"/> </a>
 <!--   </kbd> -->
   <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="70" height="70"/>  </a>
- <a href="https://angular.io/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" alt="Svelte Logo" width="70" height="70"/>
- </a>
   <a href="https://www.postgresql.org/">   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70"/></a>
   <a href="https://www.mongodb.com/">  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" alt="MongoDB Logo" width="70" height="70"/> </a>
   <a href="https://graphql.org/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL Logo" width="70" height="70"/> </a>
