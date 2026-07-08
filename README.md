@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer** · Florianópolis, Brazil · Building scalable products with intentionality and craft.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-igorjm.github.io-0ea5e9?style=for-the-badge)](https://igorjm.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-igorjm.github.io-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://igorjm.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-igorjm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorjm)
 [![Email](https://img.shields.io/badge/Email-igorjmelo4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorjmelo4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-igorjm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorjm)
@@ -17,13 +17,13 @@ I lead end-to-end delivery across frontend and backend — currently at **Cognyt
 
 | Domain | Impact |
 |--------|--------|
-| 🕵️ **Intelligence analytics** (Cognyte) | Java, Spring Boot, React · −25% processing time · AI assistant adopted as a global product line |
-| 🎓 **EdTech** (Konviva) | Custom React interfaces, theme systems, cross-functional delivery |
-| 🏥 **Healthcare** (Animati) | Radiology imaging & reporting platforms |
+| **Intelligence analytics** (Cognyte) | Java, Spring Boot, React · −25% processing time · AI assistant adopted as a global product line |
+| **EdTech** (Konviva) | Custom React interfaces, theme systems, cross-functional delivery |
+| **Healthcare** (Animati) | Radiology imaging & reporting platforms |
 
 I care about **performance, clarity, and measurable outcomes** — and about mentoring engineers along the way.
 
-📄 [Resume (PDF)](https://igorjm.github.io/resume/igor_melo_frontend_engineer.pdf) · 🌐 [Portfolio](https://igorjm.github.io)
+[Resume (PDF)](https://igorjm.github.io/resume/igor_melo_frontend_engineer.pdf) · [Portfolio](https://igorjm.github.io)
 
 ---
 
@@ -64,21 +64,36 @@ I care about **performance, clarity, and measurable outcomes** — and about men
 **Cloud & delivery**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**AI-assisted development**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+Daily workflow with AI coding assistants to ship features faster while keeping code review, architecture decisions, and ownership in my hands.
 
 ---
 
 ## GitHub highlights
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=igorjm&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=334155&icon_color=0EA5E9&include_all_commits=true&count_private=true" alt="Igor's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjm&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=334155" alt="Top languages" />
+  <a href="https://github.com/igorjm">
+    <img src="https://github-readme-stats.vercel.app/api?username=igorjm&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000" alt="Igor's GitHub stats" height="165" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/igorjm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjm&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Top languages" height="165" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorjm&theme=default&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=0EA5E9&fire=F97316&currStreakLabel=0F172A" alt="GitHub streak" />
+  <a href="https://github.com/igorjm">
+    <img src="https://streak-stats.demolab.com?user=igorjm&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=F97316&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+  </a>
 </p>
 
 ---
