@@ -74,8 +74,9 @@ Daily workflow with AI coding assistants to ship features faster — while keepi
 ## GitHub highlights
 
 <p align="center">
-  <img height="165" src="https://readme-stats.anuraghazra1.workers.dev/api?username=igorjm&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Igor's GitHub stats" />
-  <img height="165" src="https://readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=igorjm&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igorjm&theme=github_dark" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igorjm&theme=github_dark" height="180" alt="Top languages by repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igorjm&theme=github_dark" height="180" alt="Most commit language" />
 </p>
 
 <p align="center">
