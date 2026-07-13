@@ -1,4 +1,4 @@
-# Hi, I'm Igor Melo 👋
+# Hi, I'm Igor Melo
 
 **Senior Full-Stack Engineer** · Florianópolis, Brazil · Building scalable products with intentionality and craft.
 
