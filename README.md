@@ -31,6 +31,7 @@ I care about **performance, clarity, and measurable outcomes** — and about men
 
 | Project | Stack | Live |
 |---------|-------|------|
+| [**LeveCare**](https://github.com/igorjm/levecare) — Brazilian weight-care telehealth on AWS | Java · Go · Next.js · Serverless | [Visit](https://dc5s9mmmdrudy.cloudfront.net/) |
 | [**igorjm.github.io**](https://github.com/igorjm/igorjm.github.io) — bilingual personal portfolio | Next.js · TypeScript · Tailwind · i18n | [Visit](https://igorjm.github.io) |
 | [**Brewra**](https://github.com/igorjm/brewra) — AI coffee brewing platform | React Native · Next.js · Stripe · AI | [Visit](https://coffeebrewra.vercel.app/en) |
 | [**MealPlan AI**](https://github.com/igorjm/nextjs-meal-plan-saas) — weekly meal planning SaaS | Next.js · Clerk · Stripe · AI | [Visit](https://nextjs-meal-plan-saas.vercel.app) |
