@@ -74,13 +74,21 @@ Daily workflow with AI coding assistants to ship features faster — while keepi
 ## GitHub highlights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igorjm&theme=github_dark" height="180" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igorjm&theme=github_dark" height="180" alt="Top languages by repos" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igorjm&theme=github_dark" height="180" alt="Most commit language" />
+  <img src="https://img.shields.io/github/followers/igorjm?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/igorjm?affiliation=owner&style=for-the-badge&logo=github&label=Stars&color=58a6ff" alt="Stars" />
+  <img src="https://img.shields.io/badge/Public_repos-162-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=igorjm&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorjm&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/58a6ff/igorjm" alt="Contribution chart" />
 </p>
 
 ---
