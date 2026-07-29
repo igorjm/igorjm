@@ -81,10 +81,6 @@ Daily workflow with AI coding assistants to ship features faster — while keepi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=igorjm&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorjm&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
 </p>
 
