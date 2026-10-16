@@ -29,6 +29,17 @@ I care about **performance, clarity, and measurable outcomes** — and about men
 
 ## Featured work
 
+### [Ninolu — prepare for your baby, together](https://www.ninolu.com/landing)
+
+[![Ninolu landing page — baby planning with Nino](assets/ninolu.webp)](https://www.ninolu.com/landing)
+
+An **offline-first PWA** for families: smart shopping checklists, a photo wardrobe, shared planning across Brazil and the US, and **Nino**, an AI assistant. Local changes sync when connectivity returns.
+
+**Next.js · TypeScript · Cloudflare · IndexedDB · AI**
+
+[Explore Ninolu →](https://www.ninolu.com/landing)
+
+
 | Project | Stack | Live |
 |---------|-------|------|
 | [**LeveCare**](https://github.com/igorjm/levecare) — Brazilian weight-care telehealth on AWS | Java · Go · Next.js · Serverless | [Visit](https://dc5s9mmmdrudy.cloudfront.net/) |
