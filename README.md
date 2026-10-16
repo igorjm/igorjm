@@ -81,10 +81,6 @@ Daily workflow with AI coding assistants to ship features faster — while keepi
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=igorjm&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://ghchart.rshah.org/58a6ff/igorjm" alt="Contribution chart" />
 </p>
 
